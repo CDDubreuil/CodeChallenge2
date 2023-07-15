@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>CodeChallenge2.LongestCollatz</StartupObject>
   </PropertyGroup>
 
 </Project>
